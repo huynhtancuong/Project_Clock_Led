@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=U2(SOIC 16)
+Added Pin To Net: NetName=+3.3 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=NetBT2_1 Pin=U2-14
+Added Pin To Net: NetName=SDA Pin=U2-15
+Added Pin To Net: NetName=SCL Pin=U2-16
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U2-3
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=DS3231 Member=Component U2 DS3231

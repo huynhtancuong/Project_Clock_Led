@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C1 22pF
+Added Member To Class: ClassName=BUZZER_RELAY Member=Component Q6 HF
+Added Member To Class: ClassName=BUZZER_RELAY Member=Component R24 100R
