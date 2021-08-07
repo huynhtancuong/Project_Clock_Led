@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetR4_2 Pin=R14-1
+Removed Pin From Net: NetName=NetR5_2 Pin=R15-1
+Removed Pin From Net: NetName=NetBT3_1 Pin=U1-14
+Removed Pin From Net: NetName=NetBT4_1 Pin=U1-15
+Removed Pin From Net: NetName=NetBT5_1 Pin=U1-16
+Removed Pin From Net: NetName=NetBT6_1 Pin=U1-17
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-27
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-28
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-29
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Added Component: Designator=R6(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_2 Pin=R14-1
+Added Pin To Net: NetName=NetR4_2 Pin=R15-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-14
+Added Pin To Net: NetName=NetR5_1 Pin=U1-15
+Added Pin To Net: NetName=NetP1_2 Pin=U1-25
+Added Pin To Net: NetName=NetBT6_1 Pin=U1-26
+Added Pin To Net: NetName=NetBT5_1 Pin=U1-27
+Added Pin To Net: NetName=NetBT4_1 Pin=U1-28
+Added Pin To Net: NetName=NetBT3_1 Pin=U1-29
+Added Pin To Net: NetName=LED_7_Thanh_A Pin=U1-30
+Added Pin To Net: NetName=LED_7_Thanh_B Pin=U1-31
+Added Pin To Net: NetName=LED_7_Thanh_C Pin=U1-32
+Added Pin To Net: NetName=LED_7_Thanh_D Pin=U1-33
+Added Pin To Net: NetName=LED_7_Thanh_E Pin=U1-39
+Added Pin To Net: NetName=LED_7_Thanh_F Pin=U1-41
+Added Pin To Net: NetName=LED_7_Thanh_G Pin=U1-45
+Added Pin To Net: NetName=LED_7_Thanh_H Pin=U1-46
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR2_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-16
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R13-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-17
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R12-1
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C4 104
+Added Member To Class: ClassName=DS3231 Member=Component C9 104

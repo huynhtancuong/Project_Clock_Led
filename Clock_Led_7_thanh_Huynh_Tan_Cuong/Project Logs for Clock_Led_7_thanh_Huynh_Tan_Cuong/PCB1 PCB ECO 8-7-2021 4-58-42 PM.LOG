@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+3.3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Member From Class: ClassName=POWER_12_5_33 Member=C5
+Removed Member From Class: ClassName=POWER_12_5_33 Member=C6
+Removed Member From Class: ClassName=POWER_12_5_33 Member=C7
+Removed Member From Class: ClassName=POWER_12_5_33 Member=C8
+Removed Member From Class: ClassName=POWER_12_5_33 Member=C9
+Change Component Designator: OldDesignator=C4 NewDesignator=C9
+Added Component: Designator=C4(tu 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=1-VCC
+Added Pin To Net: NetName=RESET Pin=BT1-2
+Added Pin To Net: NetName=RESET Pin=BT1-2
+Added Pin To Net: NetName=RESET Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+12 Pin=C10-1
+Added Pin To Net: NetName=+12 Pin=JACK DC1-1
+Added Pin To Net: NetName=+3.3 Pin=R20-2
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=+12 Pin=U3-1
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C4 104
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C5 104
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C6 104
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C7 104
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component C8 104

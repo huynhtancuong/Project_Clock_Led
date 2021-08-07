@@ -183,7 +183,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMCVFUMT
+DocumentUniqueId=TMHMLVXB
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Clock_Led_7_thanh_Huynh_Tan_Cuong\Design Rule Check - PCB1.html
