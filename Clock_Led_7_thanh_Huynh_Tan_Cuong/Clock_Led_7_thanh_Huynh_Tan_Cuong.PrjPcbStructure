@@ -1,1 +1,9 @@
-Record=TopLevelDocument|FileName=Clock_Led_7_thanh_Huynh_Tan_Cuong.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=4_LEDS_SEGMENT.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=BUTTONS.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=BUZZER_RELAY.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=DHT11.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=DS3231.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=ESP8266_Module.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=POWER_12_5_33.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=STM32F103xx_LQFP48.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=4_LEDS_SEGMENT.SchDoc|FileName=TSOP1838.SchDoc|SheetNumber=5

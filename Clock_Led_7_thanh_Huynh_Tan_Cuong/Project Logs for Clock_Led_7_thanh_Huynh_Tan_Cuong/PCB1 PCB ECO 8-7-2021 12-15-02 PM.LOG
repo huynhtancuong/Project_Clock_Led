@@ -1,0 +1,20 @@
+Change Net Name : Old Net Name=TRIGGER_LED_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=TRIGGER_LED_2 New Net Name=NetR13_1
+Change Net Name : Old Net Name=TRIGGER_LED_3 New Net Name=NetR14_1
+Change Net Name : Old Net Name=TRIGGER_LED_4 New Net Name=NetR15_1
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component L1 LED 7 Thanh
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component L2 LED 7 Thanh
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component L3 LED 7 Thanh
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component L4 LED 7 Thanh
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component Q1 HF
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component Q2 HF
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component Q3 HF
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component Q4 HF
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R8 330R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R9 330R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R10 330R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R11 330R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R12 100R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R13 100R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R14 100R
+Added Member To Class: ClassName=4_LEDS_SEGMENT Member=Component R15 100R
