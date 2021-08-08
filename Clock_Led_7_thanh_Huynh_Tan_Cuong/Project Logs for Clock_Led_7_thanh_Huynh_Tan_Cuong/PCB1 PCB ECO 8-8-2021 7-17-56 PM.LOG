@@ -1,0 +1,11 @@
+Change Component Comment : Designator=BT1 Old Comment=Nut Nhan 4 Chan Cam 6x6 New Comment=Nut Nhan 2 Chan SMD 3x6x2.5
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "Nut Nhan 4 Chan Cam 6x6"; UniqueID = "\QMCUXOJZ" ("\QMCUXOJZ")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Room: Name=4_LEDS_SEGMENT
+Added Room: Name=BUTTONS
+Added Room: Name=DHT11
+Added Room: Name=ESP8266_Module
+Added Room: Name=POWER_12_5_33
+Added Room: Name=STM32F103xx_LQFP48
+Added Room: Name=TSOP1838

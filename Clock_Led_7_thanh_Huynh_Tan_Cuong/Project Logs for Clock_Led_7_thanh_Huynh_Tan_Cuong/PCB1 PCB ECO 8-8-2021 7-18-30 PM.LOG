@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=RESET Pin=BT1-2
+Removed Pin From Net: NetName=RESET Pin=BT1-2
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=BT1

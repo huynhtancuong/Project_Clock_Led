@@ -1,0 +1,6 @@
+Added Component: Designator=BT1(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=RESET Pin=BT1-2
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
