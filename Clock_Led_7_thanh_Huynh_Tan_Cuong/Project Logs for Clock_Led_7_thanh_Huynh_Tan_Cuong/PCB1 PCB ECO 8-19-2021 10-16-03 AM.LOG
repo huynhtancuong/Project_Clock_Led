@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=L1 Old Footprint=LED-0805-Red New Footprint=LED-5MM-RED
+Change Component Footprint: Designator=L2 Old Footprint=LED-0805-Red New Footprint=LED-5MM-RED
+Change Component Comment : Designator=L1 Old Comment=LED 0805 New Comment=LED 5mm
+Change Component Comment : Designator=L2 Old Comment=LED 0805 New Comment=LED 5mm
+Change component parameters: Designator = "L1" ("L1"); Footprint = "LED-0805-Red"; UniqueID = "\NIXBHVJK" ("\NIXBHVJK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LED-0805-Red"; UniqueID = "\JJFHBSRM" ("\JJFHBSRM")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Room: Name=4_LEDS_SEGMENT
+Added Room: Name=BUTTONS
+Added Room: Name=BUZZER_RELAY
+Added Room: Name=DHT11
+Added Room: Name=DS3231
+Added Room: Name=ESP8266_Module
+Added Room: Name=POWER_12_5_33
+Added Room: Name=STM32F103xx_LQFP48
+Added Room: Name=TSOP1838
